@@ -1,0 +1,1 @@
+print("Seja grato pelo o que vc tem enquanto controi o que vc quer!")
